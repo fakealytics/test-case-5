@@ -1,13 +1,13 @@
 package main
 
 // Comment on line 3
-func someFunction() string {
-	variableA := "a"
-	return variableA
+func bestFunction() string {
+	variableX := "X"
+	return variableX
 }
 
 // Comment on line 9``
-func someOtherFunction() string {
-	variableB := "changed from b"
-	return variableB
+func bestDifferentFunction() string {
+	variableY := "changed from y"
+	return variableY
 }
